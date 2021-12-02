@@ -1,6 +1,5 @@
 
 ![Alt Text](https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270)
-![Alt Text](https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvaraujos&show_icons=true&theme=merko&count_private=true)
 ![Alt Text](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
