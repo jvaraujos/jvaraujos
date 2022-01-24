@@ -6,7 +6,6 @@
 # Social's
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-22272e?style=for-the-badge&logo=instagram&logoColor=DF0174&link=https://www.instagram.com/____jeferson/)](https://instagram.com/jvaraujos)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-22272e?style=for-the-badge&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/douglasdgmarques/)](https://www.linkedin.com/in/jvaraujos/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-22272e?style=for-the-badge&logo=twitter&logoColor=3b5998&link=https://twitter.com/____jeferson)](https://twitter.com/jvaraujos)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-22272e?style=for-the-badge&logo=whatsapp&logoColor=4CA143&link=https://api.whatsapp.com/send?phone=5548988467968&text=Hello!)](https://api.whatsapp.com/send?phone=5548988467968&text=Hello!)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://api.whatsapp.com/send?phone=5548988467968&text=Hello!)
 
