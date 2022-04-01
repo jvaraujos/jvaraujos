@@ -1,5 +1,5 @@
 # Joao :man_technologist:
-Hi there,my name Joao i'm 26 years old
+Hi there,my name is Joao i'm 26 years old
 lately i've been studying a lot of english, i'm focused on getting certified and becoming fluent.
 i'm full stack developer with more or less 5 years of experience, below are my main skills
 Web Client Side : React , Blazor, ASP.NET
