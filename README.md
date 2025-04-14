@@ -1,5 +1,5 @@
 # Joao :man_technologist:
-Desenvolvedor Full Stack com mais de 7 anos de experiência e forte atuação como Tech Lead. Tenho me dedicado a aprimorar minhas habilidades em inglês, com o objetivo de alcançar fluência e obter certificações.
+Desenvolvedor Full Stack com mais de 8 anos de experiência e forte atuação como Tech Lead. Tenho me dedicado a aprimorar minhas habilidades em inglês, com o objetivo de alcançar fluência e obter certificações.
 
 Minha trajetória profissional envolve desenvolvimento e manutenção de APIs, aplicações web (SPA com React/Next.js), automações (RPA), e soluções em cloud, utilizando uma ampla gama de tecnologias, desde serviços AWS até bancos de dados relacionais e não relacionais. Possuo uma abordagem focada em boas práticas de desenvolvimento, escalabilidade e automação, além de uma sólida experiência com metodologias ágeis como Scrum.
 
